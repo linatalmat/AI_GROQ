@@ -1,0 +1,24 @@
+
+
+personnality : 
+  " prentend you are ... "
+
+
+INPUT : 
+
+we are going to give you are findings
+json ou un text simple 
+
+fichier.CSV { valeurs , streaming ...}
+
+OUTPUT:
+
+un text 90 mots , prefessinal language , the result is in french
+
+text : 
+   {
+      le no de directeur : 
+      { le salaire }
+
+   }
+
